@@ -5,8 +5,7 @@ import './options.css'
 const App = () => {
   return(
     <>
-      <img src="icon.png" />
-      <a href="https://www.flaticon.com/free-icons/short-term" title="short-term icons">Short-term icons created by Freepik - Flaticon</a>
+      <h1>Hello World</h1>
     </>
   )
 }
